@@ -1,6 +1,7 @@
 <!-- Heading -->
 
 # Book club - nomad
+노마드 코더에서 진행한 챌린지를 기록한 저장소
 
 ## Navigation
 
@@ -9,8 +10,9 @@
 ---
 
 ## IT 5분 잡학사전
+누구나 쉽게 이해할 수 있는 IT 지식이 가득한 입문서.
+잘 몰랐던 내용을 쉽게, 알고 있는 내용들을 상기할 수 있었던 책이다.
 
-노마드 코더에서 진행한 챌린지를 기록한 저장소
 
 - [Notion TIL (= Today I learned)](https://www.notion.so/IT-Today-I-Read-3f7577ccf5e14624afe2106f36bb360d)
 
